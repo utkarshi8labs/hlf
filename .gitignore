@@ -1,1 +1,6 @@
-README/  
+#files
+README/
+.gitignore
+
+# folders
+cloud/
